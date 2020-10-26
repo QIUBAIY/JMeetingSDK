@@ -1,0 +1,6 @@
+framework module JMeetingFramework {
+  umbrella header "JMeetingFramework.h"
+
+  export *
+  module * { export * }
+}
