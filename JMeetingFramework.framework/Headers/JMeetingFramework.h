@@ -22,6 +22,4 @@ FOUNDATION_EXPORT double JMeetingFrameworkVersionNumber;
 //! Project version string for JMeetingFramework.
 FOUNDATION_EXPORT const unsigned char JMeetingFrameworkVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <JMeetingFramework/PublicHeader.h>
-
 

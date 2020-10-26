@@ -4,34 +4,73 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Info.plist</key>
+		<key>ConferenceSDK.bundle/Info.plist</key>
 		<data>
-		1uPr9jkpbemP0La6Ov2/CbvkYco=
+		bdrNwRxvy8xi81n4R5YUffXkpm0=
 		</data>
-		<key>Log.xml</key>
+		<key>ConferenceSDK.bundle/Log.xml</key>
 		<data>
 		mEqOUvniVTaroMJTlrpDu3l+V+o=
 		</data>
-		<key>LogFileUpdateConfig.xml</key>
+		<key>ConferenceSDK.bundle/LogFileUpdateConfig.xml</key>
 		<data>
 		2618jwGeuYUqJSHBJr2ytswYcKA=
 		</data>
-		<key>ShortLinkConfig.xml</key>
+		<key>ConferenceSDK.bundle/MediaFrameworkcfg.ini</key>
+		<data>
+		bNOChIBupPlsQ+vmwR3cd3OWzvk=
+		</data>
+		<key>ConferenceSDK.bundle/SVC-单资源配置说明</key>
+		<data>
+		KnALr0iVuI2PptxD5nqqU6Em4NM=
+		</data>
+		<key>ConferenceSDK.bundle/ShortLinkConfig.xml</key>
 		<data>
 		jk3LhJBMdW3pQ3aEeVgQMNjfY3I=
 		</data>
-		<key>media_server_agent.xml</key>
+		<key>ConferenceSDK.bundle/media_server_agent.xml</key>
 		<data>
-		jS7ZxdUQxhShl7SdBPL2cgWcQao=
+		fm+aDblzHQSFoelFANn6ftN5+J8=
 		</data>
-		<key>param.xml</key>
+		<key>ConferenceSDK.bundle/mscfg.txt</key>
+		<data>
+		uF1+zh6bu0bBgRnREmWXV6ctjaM=
+		</data>
+		<key>ConferenceSDK.bundle/param.xml</key>
 		<data>
 		47MZfS56i+u3q9vtYIqGkGzpBRA=
+		</data>
+		<key>Info.plist</key>
+		<data>
+		22x4tx9BEwnoItLUNRx6qGA251U=
+		</data>
+		<key>SVC-单资源配置说明</key>
+		<data>
+		KnALr0iVuI2PptxD5nqqU6Em4NM=
+		</data>
+		<key>mscfg.txt</key>
+		<data>
+		uF1+zh6bu0bBgRnREmWXV6ctjaM=
+		</data>
+		<key>relayIP.txt</key>
+		<data>
+		+x3D+qC3iVaiaKA6/oyc2dpyxVA=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Log.xml</key>
+		<key>ConferenceSDK.bundle/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bdrNwRxvy8xi81n4R5YUffXkpm0=
+			</data>
+			<key>hash2</key>
+			<data>
+			GSVgbDQFmj2e6NzCKPuktattgZEg9VqhxvfvXsRunkw=
+			</data>
+		</dict>
+		<key>ConferenceSDK.bundle/Log.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -42,7 +81,7 @@
 			S6eRvavm/Xc0GUNZ1IgxpB8rjCiCYZ0t6Du909rab1w=
 			</data>
 		</dict>
-		<key>LogFileUpdateConfig.xml</key>
+		<key>ConferenceSDK.bundle/LogFileUpdateConfig.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -53,7 +92,29 @@
 			h2orRChw/x16vATXJACm5IukFnS6A6DcNOkiaFYhVA4=
 			</data>
 		</dict>
-		<key>ShortLinkConfig.xml</key>
+		<key>ConferenceSDK.bundle/MediaFrameworkcfg.ini</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bNOChIBupPlsQ+vmwR3cd3OWzvk=
+			</data>
+			<key>hash2</key>
+			<data>
+			rc2YEWWs38yvaHd/6CFo9M1Ez/ZhjsMRe4fqOZYiwvM=
+			</data>
+		</dict>
+		<key>ConferenceSDK.bundle/SVC-单资源配置说明</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KnALr0iVuI2PptxD5nqqU6Em4NM=
+			</data>
+			<key>hash2</key>
+			<data>
+			ICPpVzxrPBdfDeNt4T5j70c5RUOHc67B5irnNw/fGOo=
+			</data>
+		</dict>
+		<key>ConferenceSDK.bundle/ShortLinkConfig.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -64,18 +125,29 @@
 			Ei7DxRJveNkztvHImMB4bz5g6/IDWtNtJRrOso6Ynwo=
 			</data>
 		</dict>
-		<key>media_server_agent.xml</key>
+		<key>ConferenceSDK.bundle/media_server_agent.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jS7ZxdUQxhShl7SdBPL2cgWcQao=
+			fm+aDblzHQSFoelFANn6ftN5+J8=
 			</data>
 			<key>hash2</key>
 			<data>
-			8v+ymELwP3xyskrx39h6UtzC/wzm5Vw8j3oqNnsTdno=
+			SSpoYIOaRa5EfFt4+eLQBgA+br2vJrGiT8diQN1ikWc=
 			</data>
 		</dict>
-		<key>param.xml</key>
+		<key>ConferenceSDK.bundle/mscfg.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uF1+zh6bu0bBgRnREmWXV6ctjaM=
+			</data>
+			<key>hash2</key>
+			<data>
+			KO7oXaKIL7DMxjfbNAICtHLW8D7SMsoURDq0CZ1IyJE=
+			</data>
+		</dict>
+		<key>ConferenceSDK.bundle/param.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -84,6 +156,39 @@
 			<key>hash2</key>
 			<data>
 			IKORUE2U887RzfgIMxR+XDmEXk7SjzlRBYJWsbcNYn8=
+			</data>
+		</dict>
+		<key>SVC-单资源配置说明</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KnALr0iVuI2PptxD5nqqU6Em4NM=
+			</data>
+			<key>hash2</key>
+			<data>
+			ICPpVzxrPBdfDeNt4T5j70c5RUOHc67B5irnNw/fGOo=
+			</data>
+		</dict>
+		<key>mscfg.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uF1+zh6bu0bBgRnREmWXV6ctjaM=
+			</data>
+			<key>hash2</key>
+			<data>
+			KO7oXaKIL7DMxjfbNAICtHLW8D7SMsoURDq0CZ1IyJE=
+			</data>
+		</dict>
+		<key>relayIP.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+x3D+qC3iVaiaKA6/oyc2dpyxVA=
+			</data>
+			<key>hash2</key>
+			<data>
+			RYxkfQL2sN5oQ6LRoDnUhBip0vVefBrvu9rqgM8nKYg=
 			</data>
 		</dict>
 	</dict>

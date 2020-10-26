@@ -1,0 +1,61 @@
+{
+    "respondExpect" : 1,
+    "recverWeight" : 10,
+    "cpuAdaption" : 0,
+    "datashareMode" : 0,
+    "recvrateCfg" : {
+        "video": {
+            "big": "1000",
+            "mid": "200",
+            "small": "200"
+        },
+        "doc": {
+            "big": "2500",
+            "small": "2500"
+        }
+    },
+    "ratelistCfg" : {
+        "Video" : {
+            "H264" : [
+                {"Width" : 1920, "Height" : 1080, "Bitrate" : 2000000, "Fps" : 25},
+                {"Width" : 1440, "Height" : 816, "Bitrate" : 1500000, "Fps" : 25},
+                {"Width" : 1280, "Height" : 720, "Bitrate" : 1000000, "Fps" : 25},
+                {"Width" : 1024, "Height" : 576, "Bitrate" : 600000, "Fps" : 25},
+                {"Width" : 640, "Height" : 360, "Bitrate" : 400000, "Fps" : 15},
+                {"Width" : 426, "Height" : 240, "Bitrate" : 300000, "Fps" : 15},
+                {"Width" : 320, "Height" : 180, "Bitrate" : 200000, "Fps" : 15},
+                {"Width" : 160, "Height" : 90, "Bitrate" : 50000, "Fps" : 8}
+            ]
+        },
+        "Data" : {
+            "H264" : [
+                {"MinWidth" : 1920, "MinHeight" : 1080, "MaxWidth" : 1920, "MaxHeight" : 1080, "Bitrate" : 2500000, "Fps" : 25, "Mode" : "Speed"},
+                {"MinWidth" : 1920, "MinHeight" : 1080, "MaxWidth" : 1920, "MaxHeight" : 1080, "Bitrate" : 1500000, "Fps" : 10, "Mode" : "Balance"},
+                {"MinWidth" : 1920, "MinHeight" : 1080, "MaxWidth" : 1920, "MaxHeight" : 1080, "Bitrate" : 1000000, "Fps" : 1, "Mode" : "Quality"},
+                {"MinWidth" : 1280, "MinHeight" : 720, "MaxWidth" : 1440, "MaxHeight" : 960, "Bitrate" : 1500000, "Fps" : 25, "Mode" : "Speed"},
+                {"MinWidth" : 1280, "MinHeight" : 720, "MaxWidth" : 1440, "MaxHeight" : 960, "Bitrate" : 1000000, "Fps" : 10, "Mode" : "Balance"},
+                {"MinWidth" : 1280, "MinHeight" : 720, "MaxWidth" : 1440, "MaxHeight" : 960, "Bitrate" : 700000, "Fps" : 1, "Mode" : "Quality"},
+                {"MinWidth" : 1024, "MinHeight" : 576, "MaxWidth" : 1024, "MaxHeight" : 576, "Bitrate" : 800000, "Fps" : 25, "Mode" : "Speed"},
+                {"MinWidth" : 1024, "MinHeight" : 576, "MaxWidth" : 1024, "MaxHeight" : 576, "Bitrate" : 600000, "Fps" : 10, "Mode" : "Balance"},
+                {"MinWidth" : 1024, "MinHeight" : 576, "MaxWidth" : 1024, "MaxHeight" : 576, "Bitrate" : 400000, "Fps" : 1, "Mode" : "Quality"},
+                {"MinWidth" : 640, "MinHeight" : 360, "MaxWidth" : 640, "MaxHeight" : 360, "Bitrate" : 600000, "Fps" : 25, "Mode" : "Speed"},
+                {"MinWidth" : 640, "MinHeight" : 360, "MaxWidth" : 640, "MaxHeight" : 360, "Bitrate" : 40000, "Fps" : 10, "Mode" : "Balance"},
+                {"MinWidth" : 640, "MinHeight" : 360, "MaxWidth" : 640, "MaxHeight" : 360, "Bitrate" : 20000, "Fps" : 1, "Mode" : "Quality"}
+            ]
+        }
+    },
+    "pubparam" : {
+        "cam" : [
+            {"maxbitrate" : 400, "minbitrate" : 300, "codecId" : 0, "codecType" : 0, "state" : 1},
+            {"maxbitrate" : 200, "minbitrate" : 200, "codecId" : 0, "codecType" : 0, "state" : 1},
+        ],
+        "doc" : [
+            {"maxbitrate" : 600, "minbitrate" : 200, "codecId" : 0, "codecType" : 0, "state" : 1}
+        ],
+        "desk" : [
+            {"maxbitrate" : 2000, "minbitrate" : 1000, "codecId" : 0, "codecType" : 0, "state" : 1},
+            {"maxbitrate" : 1000, "minbitrate" : 600, "codecId" : 0, "codecType" : 0, "state" : 1}
+        ]
+    }
+}
+
