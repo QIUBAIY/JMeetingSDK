@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/QIUBAIY/JMeetingSDK.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/QIUBAIY/JMeetingSDK.git", :tag => "v2.0.7" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
